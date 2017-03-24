@@ -6,3 +6,10 @@ git add a.txt
 
 git commit -m"a.txt"
 
+生成秘钥：ssh-keygen -t rsa -C "1738995297@qq.com"
+
+获取邮箱： git config user.email
+
+改变邮箱： git config --global user.email""
+
+
