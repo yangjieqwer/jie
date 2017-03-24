@@ -1,0 +1,8 @@
+git init
+
+git status
+
+git add a.txt
+
+git commit -m"a.txt"
+
